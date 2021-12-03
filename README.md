@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaycee Xu, a second-year master student studying at the School of Economics and Management of Wuhan University, China. 
+- 👋 Hi, I’m Jaycee Xu, a second-year master student studying at the School of Economics and Management of Wuhan University, China. 
 - 👀 I’m interested in fintech.
 - 🌱 I’m currently learning application of machine learning and optimization methods in the financial field.
 
